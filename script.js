@@ -34,7 +34,6 @@ function calculate () {
   for (counter = 0; counter < firstNum; counter++) {
     answer = answer + secondNum
   }
-  
   // Add back negative sign
   if (negative) {
     answer = 0 - answer
